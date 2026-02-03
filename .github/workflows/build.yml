@@ -19,3 +19,4 @@ jobs:
       - run: go build .
         env:
           CGO_ENABLED: '0'
+
